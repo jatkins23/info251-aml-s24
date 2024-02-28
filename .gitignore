@@ -160,3 +160,8 @@ cython_debug/
 #.idea/
 
 .DS_store
+<<<<<<< Updated upstream
+*.DS_Store
+=======
+.DStore
+>>>>>>> Stashed changes
